@@ -1,24 +1,17 @@
 <br/>
 <p align="center">
 
-  <h3 align="center">IDOR-Forge</h3>
+  <h3 align="center">IDOR Detection Tool</h3>
 
   <p align="center">
         IDOR Detection Tool is a powerful and versatile tool designed to detect Insecure Direct Object Reference (IDOR) vulnerabilities in web applications.
     <br/>
-        Note this project is not done...
+        Note this project is still in progress...
     <br/>
     <br/>
     <!-- <a href="https://readme.shaankhan.dev"><strong>View Demo »</strong></a> -->
     <br/>
     <br/>
-    <a href="https://intsagram.com/error._.fiat">Instagram page</a>
-    .
-    <a href="https://youtube.com/error_fiat">Youtube chanel</a>
-    .
-    <a href="https://twitter.com/ErrorFiat">Twitter page</a>
-    .
-    <a href="https://t.me/hack_authenticator">Telegram chanel</a>
   </p>
 </p>
 
