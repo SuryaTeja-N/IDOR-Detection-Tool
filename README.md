@@ -1,13 +1,10 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/errorfiathck">
-    <img src="./IMG/prof.jpeg" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">IDOR-Forge</h3>
 
   <p align="center">
-        IDOR Forge is a powerful and versatile tool designed to detect Insecure Direct Object Reference (IDOR) vulnerabilities in web applications.
+        IDOR Detection Tool is a powerful and versatile tool designed to detect Insecure Direct Object Reference (IDOR) vulnerabilities in web applications.
     <br/>
         Note this project is not done...
     <br/>
@@ -25,11 +22,11 @@
   </p>
 </p>
 
-# IDOR Forge: Advanced IDOR Vulnerability Scanner 🕵️‍♂️
+# IDOR Detection Tool
 
 > Overview
 
-IDOR Forge is a powerful and versatile tool designed to detect Insecure Direct Object Reference (IDOR) vulnerabilities in web applications. IDOR vulnerabilities occur when an application exposes direct references to internal objects (e.g., database keys, file paths) without proper authorization checks, allowing attackers to access unauthorized data. This tool automates the process of identifying such vulnerabilities by dynamically generating and testing payloads, analyzing responses, and reporting potential issues.
+IDOR Detection Tool is a powerful and versatile tool designed to detect Insecure Direct Object Reference (IDOR) vulnerabilities in web applications. IDOR vulnerabilities occur when an application exposes direct references to internal objects (e.g., database keys, file paths) without proper authorization checks, allowing attackers to access unauthorized data. This tool automates the process of identifying such vulnerabilities by dynamically generating and testing payloads, analyzing responses, and reporting potential issues.
 
 
 ![Screen Shot](./IMG/IDOR-Forge.png)
@@ -78,7 +75,7 @@ Prerequisites
 Installation Steps
 - Clone the repository:
 ```
-git clone https://github.com/errorfiathck/IDOR-Forge.git
+git clone https://github.com/SuryaTeja-N/IDOR-Detection-Tool.git
 cd IDOR-Forge
 ```
 Install the required dependencies:
@@ -218,7 +215,7 @@ Contributions are welcome! Please follow these steps:
 
 - Submit a pull request with a detailed description of your changes.
 
-## Why Choose IDOR Hunter? ❓
+## Why Choose IDOR Detection Tool? ❓
 
 - Comprehensive Testing: Covers a wide range of payloads and scenarios.
 
@@ -230,10 +227,10 @@ Contributions are welcome! Please follow these steps:
 
 ## Support 💬
 
-If you encounter any issues or have questions, feel free to open an issue on GitHub or contact the maintainers.
+If you encounter any issues or have questions, feel free to open an issue on GitHub.
 
 ## Acknowledgments 🙏
 
 - Inspired by the OWASP Top 10 and the need for robust security testing tools.
 
-- Built with ❤️ by [ErrorFiat].
+- Built with ❤️ by [Surya Teja Neerukattu].
