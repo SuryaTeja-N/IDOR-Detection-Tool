@@ -6,10 +6,7 @@
   <p align="center">
         IDOR Detection Tool is a powerful and versatile tool designed to detect Insecure Direct Object Reference (IDOR) vulnerabilities in web applications.
     <br/>
-        Note this project is still in progress...
-    <br/>
-    <br/>
-    <!-- <a href="https://readme.shaankhan.dev"><strong>View Demo »</strong></a> -->
+    <!-- <a href="https://suryateja.net"><strong>View Demo »</strong></a> -->
     <br/>
     <br/>
   </p>
@@ -20,9 +17,6 @@
 > Overview
 
 IDOR Detection Tool is a powerful and versatile tool designed to detect Insecure Direct Object Reference (IDOR) vulnerabilities in web applications. IDOR vulnerabilities occur when an application exposes direct references to internal objects (e.g., database keys, file paths) without proper authorization checks, allowing attackers to access unauthorized data. This tool automates the process of identifying such vulnerabilities by dynamically generating and testing payloads, analyzing responses, and reporting potential issues.
-
-
-![Screen Shot](./IMG/IDOR-Forge.png)
 
 ## Flowchart 💾
 
